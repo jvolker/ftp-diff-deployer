@@ -29,7 +29,7 @@
   "dependencies": {
     "coffee-script": "~1.7.1",
     "iconv-lite": "~0.2.11",
-    "jsftp": "~1.2.1",
+    "jsftp": "^2.1.3",
     "async": "~0.2.10",
     "colors": "~0.6.2",
     "lodash": "~2.4.1",
